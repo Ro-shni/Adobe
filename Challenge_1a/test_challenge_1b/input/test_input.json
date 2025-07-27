@@ -1,0 +1,11 @@
+{
+  "challenge_info": {
+    "challenge_id": "test_001",
+    "test_case_name": "test_case"
+  },
+  "documents": [
+    {"filename": "test.pdf", "title": "Test Document"}
+  ],
+  "persona": {"role": "Test User"},
+  "job_to_be_done": {"task": "Test task"}
+}

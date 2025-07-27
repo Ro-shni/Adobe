@@ -268,3 +268,5 @@ temp/
 config.ini
 secrets.json
 credentials.json 
+.pre-commit-config.yaml
+trufflehog/
